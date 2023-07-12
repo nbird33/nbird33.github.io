@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nbird33/nbird33.github.io/static/css/main.efb0c068.css",
+    "main.js": "/nbird33/nbird33.github.io/static/js/main.7c7a1169.js",
+    "index.html": "/nbird33/nbird33.github.io/index.html",
+    "main.efb0c068.css.map": "/nbird33/nbird33.github.io/static/css/main.efb0c068.css.map",
+    "main.7c7a1169.js.map": "/nbird33/nbird33.github.io/static/js/main.7c7a1169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efb0c068.css",
+    "static/js/main.7c7a1169.js"
+  ]
+}
